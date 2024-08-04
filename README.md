@@ -117,7 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 - Special thanks to [Chad Darby](https://www.udemy.com/user/chaddarby/) for the JSP, Servlets, and JDBC course.
-
----
-
-Feel free to modify this README as needed for your specific project details.
